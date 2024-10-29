@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TenX InfoTech</title>
+    <link rel="icon" href="https://i.ibb.co/HxsbD4p/Whats-App-Image-2024-10-29-at-10-54-59-AM.jpg" type="image/jpg">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <img src="https://i.ibb.co/HxsbD4p/Whats-App-Image-2024-10-29-at-10-54-59-AM.jpg" alt="TenX Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">What we do</a></li>
+                <li class="dropdown">
+                    <a href="#who-we-are" class="dropbtn">Who We Are</a>
+                    <div class="dropdown-content">
+                      <a href="#overview">Overview</a>
+                      <a href="#about-us">About Us</a>
+                      <a href="#leadership">Leadership</a>
+                      <a href="#events">Events</a>
+                    </div>
+                  </li>
+                <li><a href="#">Insights</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Newsroom</a></li>
+                <li><a href="#">Investors</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Worldwide</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>TenX InfoTech</h1>
+            <p>we build greater futures across multiple industries and 55 countries.</p>
+            <button>Know more</button>
+        </div>
+    </section>
+    <!-- Industry Section -->
+<section class="industries">
+    <h2>Select your industry. Discover our impact.</h2>
+    <div class="industry-grid">
+        <div class="industry-item">
+            <span>💰</span> Banking
+        </div>
+        <div class="industry-item">
+            <span>📰</span> Communications, Media, and Information Services
+        </div>
+        <div class="industry-item">
+            <span>🎓</span> Education
+        </div>
+        <div class="industry-item">
+            <span>⚕️</span> Healthcare
+        </div>
+        <div class="industry-item">
+            <span>💼</span> Insurance
+        </div>
+        <div class="industry-item">
+            <span>🏭</span> Manufacturing
+        </div>
+        <div class="industry-item">
+            <span>📈</span> Capital Markets
+        </div>
+        <div class="industry-item">
+            <span>🛒</span> Consumer Goods and Distribution
+        </div>
+        <div class="industry-item">
+            <span>⚡</span> Energy, Resources, and Utilities
+        </div>
+        <div class="industry-item">
+            <span>🔧</span> High Tech
+        </div>
+        <div class="industry-item">
+            <span>🧬</span> Life Sciences
+        </div>
+        <div class="industry-item">
+            <span>🏛️</span> Public Services
+        </div>
+        <div class="industry-item">
+            <span>🚚</span> Travel and Logistics
+        </div>
+    </div>
+</section>
+    <!-- Services Section -->
+<section class="services">
+    <h2>Transform your business with advanced technologies</h2>
+    <div class="service-grid">
+        <div class="service-card">
+            <div class="service-overlay">
+                <h3>Artificial Intelligence</h3>
+            </div>
+            <img src="https://i.ibb.co/QNjjWCB/Ai.jpg" alt="Artificial Intelligence">
+        </div>
+        <div class="service-card">
+            <div class="service-overlay">
+                <h3>Cloud</h3>
+            </div>
+            <img src="https://i.ibb.co/SvWQqLg/tech.jpg" alt="Cloud">
+        </div>
+        <div class="service-card">
+            <div class="service-overlay">
+                <h3>Cognitive Business Operations</h3>
+            </div>
+            <img src="https://i.ibb.co/gD9TqMk/business.jpg" alt="Cognitive Business Operations">
+        </div>
+        <div class="service-card">
+            <div class="service-overlay">
+                <h3>Consulting</h3>
+            </div>
+            <img src="https://i.ibb.co/51PCLgb/one.webp" alt="Consulting">
+        </div>
+    </div>
+</section>
+<!-- Careers Section -->
+<section class="careers">
+    <h2>Join our team.</h2>
+    <p>Realize your potential.</p>
+    <a href="#" class="careers-button">Explore TenX careers</a>
+</section>
+    <!-- Add other sections as needed -->
+<!-- Footer Section -->
+<footer class="footer">
+    <div class="footer-top">
+        <div class="footer-social">
+            <h3>Follow us for the latest updates</h3>
+            
+            <div class="social-links">
+                <a href="#" aria-label="Facebook">Facebook</a>
+                <a href="#" aria-label="Twitter">Twitter</a>
+                <a href="#" aria-label="YouTube">YouTube</a>
+                <a href="#" aria-label="Instagram">Instagram</a>
+                <a href="#" aria-label="LinkedIn">LinkedIn</a>
+            </div>
+        </div>
+        <hr>
+        <div class="footer-links">
+            <div>
+                <h4>Industries</h4>
+                <ul>
+                    <li><a href="#">Banking</a></li>
+                    <li><a href="#">Communications</a></li>
+                    <li><a href="#">Education</a></li>
+                    <li><a href="#">Healthcare</a></li>
+                    <li><a href="#">Insurance</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Services</h4>
+                <ul>
+                    <li><a href="#">AI</a></li>
+                    <li><a href="#">Cloud</a></li>
+                    <li><a href="#">Consulting</a></li>
+                    <li><a href="#">Cybersecurity</a></li>
+                    <li><a href="#">Digital Transformation</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Insights</h4>
+                <ul>
+                    <li><a href="#">Research</a></li>
+                    <li><a href="#">Whitepapers</a></li>
+                    <li><a href="#">Case Studies</a></li>
+                    <li><a href="#">Newsletters</a></li>
+                    <li><a href="#">Blogs</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>More Information</h4>
+                <ul>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms of Use</a></li>
+                    <li><a href="#">Accessibility</a></li>
+                    <li><a href="#">Support</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">
+        <p>&copy; 2024 TenX InfoTech. All rights reserved.</p>
+        <p>Designed by TenX InfoTech | Legal Disclaimer</p>
+    </div>
+</footer>
+
+</body>
+</html>
